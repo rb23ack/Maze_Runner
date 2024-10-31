@@ -7,8 +7,9 @@ public class AStarPathfindingGame extends JPanel implements MouseListener {
     private static final int WIDTH = 800;
     private static final int HEIGHT = 600;
     private static final int TILE_SIZE = 20;
+
     
-    private Point playerPos;
+    private Point playerPos;   
     private Point targetPos;
     private boolean targetSet = false;
     private List <Point> path;
@@ -175,3 +176,5 @@ public class AStarPathfindingGame extends JPanel implements MouseListener {
     }
 }
 
+/* make sure to not touch the code if you're going to test how it works. 
+add enhancements as you wish once you encounter with the game and it's working. Happy game day!! */
