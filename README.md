@@ -1,4 +1,4 @@
-# A* Pathfinding Game
+# Maze_Runner
 
 ## Overview
 
