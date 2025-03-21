@@ -4,7 +4,7 @@
 
 The A* Pathfinding Game is a simple Java-based graphical application that demonstrates the A* pathfinding algorithm. Players can set a target on a grid, visualize the shortest path to that target while avoiding obstacles, and understand how the algorithm navigates through a 2D space.
 
-## Features
+## Features    
 
 - **Path Visualization**: Click to set a target, and see the calculated path represented on the grid.
 - **Dynamic Obstacles**: Visualize how obstacles affect pathfinding (obstacles are represented as red squares).
