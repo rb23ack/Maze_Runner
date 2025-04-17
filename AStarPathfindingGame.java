@@ -13,7 +13,7 @@ public class AStarPathfindingGame extends JPanel implements MouseListener {
     private Point targetPos;
     private boolean targetSet = false;
     private List <Point> path;
-    private List<Point> obstacles;
+    private List<Point> obstacles;   
 
     public AStarPathfindingGame() {
         playerPos = new Point(0, 0);
