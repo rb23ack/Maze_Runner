@@ -174,7 +174,7 @@ public class AStarPathfindingGame extends JPanel implements MouseListener {
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setVisible(true);
     }
-}
+}     
 
 /* make sure to not touch the code if you're going to test how it works. 
 add enhancements as you wish once you encounter with the game and it's working. Happy game day!! */
